@@ -1,0 +1,19 @@
+{
+    "apps":[
+  {
+      "app_name" : "name_of_the_app",
+      "app_image_link" : "https://d13yacurqjgara.cloudfront.net/users/198461/screenshots/1099675/android_icon.png",
+      "app_link" : "url_of_the_app"
+    },
+    {
+      "app_name" : "name_of_the_app",
+      "app_image_link" : "https://d13yacurqjgara.cloudfront.net/users/198461/screenshots/1099675/android_icon.png",
+      "app_link" : "url_of_the_app"
+    },
+    {
+      "app_name" : "name_of_the_app",
+      "app_image_link" : "https://d13yacurqjgara.cloudfront.net/users/198461/screenshots/1099675/android_icon.png",
+      "app_link" : "url_of_the_app"
+    }
+        ]
+}
